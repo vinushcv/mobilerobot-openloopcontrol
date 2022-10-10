@@ -87,7 +87,7 @@ Insert image here
 Upload your video in Youtube and paste your video-id here
 
 ## video link:
-https://youtu.be/iK5Uy4LFIFI
+https://www.youtube.com/watch?v=iK5Uy4LFIFI
 
 <br/>
 <br/>
